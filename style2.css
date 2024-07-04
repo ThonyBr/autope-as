@@ -60,14 +60,14 @@ body{
 
 .secao-2{
     width: 500px;
-    margin-top:50px ;
-    margin-bottom: 100px;
+    margin-top:10px ;
+    margin-bottom: 1px;
 }
 
 .secao-3{
     width: 600px;
     margin-left: 50px;
-    margin-top: 50px;
+    margin-top: 5px;
 }
 
 .secao-4{
@@ -86,7 +86,7 @@ body{
 }
 
 img{
-    width: 400px;
+    width: 200px;
     margin: 0 auto;
 }
 .img img{
